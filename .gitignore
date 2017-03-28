@@ -1,0 +1,8 @@
+/bin/
+
+/src/robocode
+/src/net
+/src/gl4java
+.classpath
+.settings/
+.project
